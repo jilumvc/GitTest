@@ -1,4 +1,4 @@
-﻿# This is a bad comment.  We want to revert it.
+﻿# Default is "World"
 name = ARGV.first || "World"
 
 puts "Hello, #{name}!"
